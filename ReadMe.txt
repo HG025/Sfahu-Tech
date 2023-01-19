@@ -1,0 +1,1 @@
+First import db as sfahutech.sql in php my admin
